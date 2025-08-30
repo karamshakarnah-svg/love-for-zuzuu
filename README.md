@@ -94,7 +94,7 @@
         <div class="reason">35. You inspire me to be brave.</div>
         <div class="reason">36. You are my favorite person to talk to.</div>
         <div class="reason">37. You make me feel loved.</div>
-        <div class="reason">38. You are always honest with me.</div>
+      
         <div class="reason">39. You have a beautiful smile.</div>
         <div class="reason">40. You are my motivation.</div>
         <div class="reason">41. You are sweet and gentle.</div>
